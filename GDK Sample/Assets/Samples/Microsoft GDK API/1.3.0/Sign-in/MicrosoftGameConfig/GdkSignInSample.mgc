@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Game
+  configVersion="1">
+  <!-- Version "1" is supported by March 2022 GDK or later -->
+  <Identity
+    Name="SilverwareGamesInc.DSYDontShootYourself"
+    Publisher="CN=7CEF9FB4-BB3A-412F-B8F9-FBEE9A2FBC2D"
+    Version="1.1.0.0" />
+  <ShellVisuals
+    DefaultDisplayName="Hundred Bullets"
+	PublisherDisplayName="Silverware Games, Inc."
+    StoreLogo="StoreLogo.png"
+    Square150x150Logo="Square150x150Logo.png"
+    Square44x44Logo="Square44x44Logo.png"
+    Square480x480Logo="LargeLogo.png"
+    SplashScreenImage="SplashScreenImage.png" />
+  <ExecutableList>
+    <Executable
+      Name="Microsoft GDK Sample.exe"
+      Id="Game" />
+  </ExecutableList>
+ 
+
+ 
+  <StoreId>9P7BW4GN1LR0</StoreId>
+  <MSAAppId>000000004466B579</MSAAppId>
+  <TitleId>604B6C98</TitleId> 
+  <ExtendedAttributeList>
+    <ExtendedAttribute
+      Name="SandboxIds"
+      Value="DMHDHV.0,DMHDHV.1" />
+    <ExtendedAttribute
+      Name="Scid"
+      Value="00000000-0000-0000-0000-0000604b6c98" />
+  </ExtendedAttributeList>
+  <AdvancedUserModel>true</AdvancedUserModel>
+</Game>
